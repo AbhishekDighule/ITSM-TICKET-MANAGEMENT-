@@ -14,3 +14,5 @@ Machine Learning as way to improve ITSM processes ABC Tech management recently a
    3) Auto-Tagging Tickets: ABC Tech intends to implement a text classification ML model to automatically assign correct priorities and departments to incoming tickets. This automation will reduce reassignment and related delays in ticket handling.
 
    4) Predicting RFC and ITSM Asset Misconfigurations: The organization aims to create predictive models for Request for Change (RFC) and detect potential failures or misconfigurations in ITSM assets. Identifying these issues in advance will help in preventing disruptions and improving overall ITSM asset management.
+
+![xFramework_ITSM_ENG-SITE png pagespeed ic_ qALqMWyhgn](https://github.com/AbhishekDighule/ITSM-TICKET-MANAGEMENT-/assets/145597070/9fd853ea-1c6e-4714-9b15-bead1aa24521)
