@@ -7,12 +7,10 @@ ABC Tech management is looking for ways to improve the incident management proce
 Machine Learning as way to improve ITSM processes ABC Tech management recently attended Machine Learning conference on ML for ITSM.Machine learning looks prospective to improve ITSM processes through prediction and automation. They came up with 4 key areas, where ML can help ITSM process in ABC Tech.
 
 ## Problem Statement
-   1) Predicting High Priority Tickets: ABC Tech aims to develop an ML model that can predict high-priority tickets,                  specifically those categorized as priority 1 and 2. This prediction will allow them to take proactive measures to address        issues or incidents before they escalate.
+   1) Predicting High Priority Tickets: ABC Tech aims to develop an ML model that can predict high-priority tickets,specifically those categorized as priority 1 and 2. This prediction will allow them to take proactive measures to address issues or incidents before they escalate.
 
-   2) Forecasting Incident Volume: The organization plans to use ML to forecast the incident volume in different fields on a           quarterly and annual basis. This predictive capability will help them better allocate resources and plan for the required       technology upgrades.
+   2) Forecasting Incident Volume: The organization plans to use ML to forecast the incident volume in different fields on a quarterly and annual basis. This predictive capability will help them better allocate resources and plan for the required technology upgrades.
 
-   3) Auto-Tagging Tickets: ABC Tech intends to implement a text classification ML model to automatically assign correct               priorities and departments to incoming tickets. This automation will reduce reassignment and related delays in ticket           handling.
+   3) Auto-Tagging Tickets: ABC Tech intends to implement a text classification ML model to automatically assign correct priorities and departments to incoming tickets. This automation will reduce reassignment and related delays in ticket handling.
 
-   4) Predicting RFC and ITSM Asset Misconfigurations: The organization aims to create predictive models for Request for Change       (RFC) and detect potential failures or misconfigurations in ITSM assets. Identifying these issues in advance will help in       preventing disruptions and improving overall ITSM asset management.
-   5) 
-![Agile-ITSM](https://github.com/AbhishekDighule/ITSM-TICKET-MANAGEMENT-/assets/145597070/429549af-aaa2-4bb3-bddf-240ebc8ed2f0)
+   4) Predicting RFC and ITSM Asset Misconfigurations: The organization aims to create predictive models for Request for Change (RFC) and detect potential failures or misconfigurations in ITSM assets. Identifying these issues in advance will help in preventing disruptions and improving overall ITSM asset management.
